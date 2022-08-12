@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trent Rogers</h1>
 <h3 align="center">A recent UT Dallas grad looking for work</h3>
 
-- 👨‍💻 All of my projects are available at: [trentr314.github.io](https://trentr314.github.io/)
+- 👨‍💻 All of my projects are on my website: [trentr314.github.io](https://trentr314.github.io/)
 
 - 📫 How to reach me: **trentr314@gmail.com**
 
