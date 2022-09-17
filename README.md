@@ -32,7 +32,7 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>  </a> 
 </p>
 
-<p><br/><br/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trentr314&show_icons=true&locale=en&layout=compact" alt="trentr314" /></p>
+
 
 <!---
 Thanks to rahuldkjain.github.io for this README template!
