@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Trent Rogers</h1>
+<h1 align="center">👋 I'm Trent Rogers</h1>
 <h3 align="center">A recent UT Dallas grad looking for work</h3>
 
 - 👨‍💻 Projects are on my website: [trentr314.github.io](https://trentr314.github.io/)
